@@ -1,7 +1,18 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-
+create .env file in the root folder
+MONGODB_URI = "mongodb+srv://kirankembari:vNAvIoygmwpMG5nO@nmastenode.rcp5n.mongodb.net/propertypulse"
+NEXT_PUBLIC_DOMAIN = "http://localhost:3000"
+NEXT_PUBLIC_API_DOMAIN = "http://localhost:3000/api"
+GOOGLE_CLIENT_ID = "682770104852-p6l3d7n0k0bnba3a3fd832kfv2kve943.apps.googleusercontent.com"
+GOOGLE_CLIENT_SECRET = "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"
+NEXTAUTH_URL = "http://localhost:3000"
+NEXTAUTH_URL_INTERNAL = "http://localhost:3000"
+NEXTAUTH_SECRET = "QW7zL+xeMHPFQX+/uCRtHCJ0jqZDotAr+Liui/xm94w="
+CLOUDINARY_CLOUD_NAME = "dk5pplrbc"
+CLOUDINARY_API_KEY = 119442535828915
+CLOUDINARY_API_SECRET = V4T4CTBAlB5AdFFRTzZ0ikbeaVg
 First, run the development server:
 
 ```bash
